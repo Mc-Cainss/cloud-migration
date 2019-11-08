@@ -4,7 +4,7 @@ on:
   push:
     # Sequence of patterns matched against refs/heads
     branches:    
-      - docker         # Push events on master branch
+      - master         # Push events on master branch
 
 jobs:
 
